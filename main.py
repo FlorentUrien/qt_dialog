@@ -2,7 +2,6 @@ import sys
 from PySide6.QtWidgets import QApplication, QDialog, QLineEdit, QPushButton, QVBoxLayout, QHBoxLayout, QLabel
 from PySide6 import QtCore
 from PySide6.QtCore import Slot
-from PySide6.QtGui import QScreen
 from screen_app import ScreenApp
 
 
